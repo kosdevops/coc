@@ -66,3 +66,107 @@ a56c3bad3fe941197d8b8bb910577a3a|file:///home/sss/Documents/js/index.html|12|1|V
 cdc144297f034cbf45bfb7022aeee3be|file:///home/sss/Documents/js/index.html|11|1|V|html
 	<body>
 	</body>
+04a05885efc55a1a4519e7a37ac8977f|untitled:6|33|46|v|markdown
+	pip3 install neovim-remote
+c9498191dbace68e350671924eba3e14|file:///home/sss/.config/alacritty/alacritty.yml|34|1|V|yaml
+	    family: "Hack"
+d59347cf63a12bf7c581bae77387363b|file:///home/sss/.config/alacritty/alacritty.yml|34|14|v|yaml
+	Hack
+d2203cb1237cb6460cbad94564e39345|file:///home/sss/.config/alacritty/alacritty.yml|35|12|v|yaml
+	Regular
+5d614144c2e8d85d1b0cfe82ce4fbed3|file:///home/sss/.config/alacritty/alacritty.yml|47|9|v|yaml
+	12.0
+	
+	  offset:
+	    x: 0
+	    y: 0
+	
+ba45c39a3b8edc06a9aaafee1f30dc60|file:///home/sss/.config/alacritty/alacritty.yml|46|20|v|yaml
+	 Bold Italic
+752c78abab28091a98ea6e9eeab8ac05|file:///home/sss/.config/alacritty/alacritty.yml|42|20|v|yaml
+	 Italic"
+	
+b7eaea266d093d9e219cfa7b2eeac813|file:///home/sss/.config/alacritty/alacritty.yml|42|20|v|yaml
+	 Italic
+941e552c5e4cacd6207f45e280b141f8|file:///home/sss/.config/alacritty/alacritty.yml|38|20|v|yaml
+	 Bold
+04dab5326d9c9e25466ef706a4debd32|file:///home/sss/.config/alacritty/alacritty.yml|34|18|v|yaml
+	 Regular
+0bbb141bdd571d1910586e7b8fc7dd6f|file:///home/sss/.config/alacritty/alacritty.yml|34|18|V|yaml
+	    family: "Hack"
+	    style: Regular
+919dce145ce691815a42b8750227d5e5|file:///home/sss/.config/alacritty/alacritty.yml|32|1|V|yaml
+	font:
+	    # normal:
+	    # family: "Hack"
+	    # style: Regular
+	
+	    # bold:
+	    #   family: "Hack"
+	    #   style: Bold
+	
+	    # italic:
+	    #   family: "Hack"
+	    #   style: Italic
+	
+	    # bold_italic:
+	    #   family: "Hack"
+	    #   style: Bold Italic
+c7161b5ca69efb22a8f3de703e01ccc3|file:///home/sss/.config/alacritty/alacritty.yml|36|1|V|yaml
+	  # bold:
+	  #   family: "Hack"
+143d6c7bc54243d6b0af81622b41e725|file:///home/sss/.config/alacritty/alacritty.yml|39|1|V|yaml
+	  # italic:
+	  #   family: "Hack"
+	  #   style: Italic
+	  # bold_italic:
+	  #   family: "Hack"
+	  #   style: Bold Italic
+bf908992b75da5b09d3e01a2adeae5e0|file:///home/sss/.config/alacritty/alacritty.yml|34|14|v|yaml
+	Hawck
+5fee77aa1db6936cd30eecec62a72171|file:///home/sss/.config/alacritty/alacritty.yml|34|39|v|yaml
+	Fontra
+e0cb82f82c92a64c0fe7e4fb5cbea49b|file:///home/sss/.config/alacritty/alacritty.yml|5|19|v|yaml
+	1e2127
+fcddb4d428e5d3ff196aa798f6130d6f|file:///home/sss/.config/alacritty/alacritty.yml|13|15|v|yaml
+	d19a66
+50a4db7a2f33964f03c929f11ce98214|file:///home/sss/.config/alacritty/alacritty.yml|17|14|v|yaml
+	abb2bf
+945d5e233cf7d6240f6b783b36a374ff|file:///home/sss/.config/i3/config|215|18|v|i3config
+	Left
+825a3d98017bab11815ad2817201324c|file:///home/sss/.config/i3/config|218|14|v|i3config
+	Shift
+08a38277b0309070706f6652eeae9a53|file:///home/sss/.config/i3/config|218|18|v|i3config
+	Down
+92b09c7c48c520c3c55e497875da437c|file:///home/sss/.config/i3/config|224|18|v|i3config
+	Right
+2b61e0d5977f2e38f06e16281c802b47|file:///home/sss/.config/i3/config|216|14|v|i3config
+	Ctrl
+b4f0b121e86e925b1b7af21c2d0921e7|file:///home/sss/.config/alacritty/alacritty.yml|45|1|V|yaml
+	font:
+	  # normal:
+	  #   family: "Fira Mono Regular Nerd Font Complete" 
+	  #   style: Regular
+	  # bold:
+	  #   family: "Fira Mono Bold Nerd Font Complete"
+	  #   style: Bold
+	
+07d0c584546482182fa4ab23e84a738c|file:///home/sss/.config/alacritty/alacritty.yml|34|14|v|yaml
+	Hack Regular Nerd Font Complete"
+cd0d95da273eed5670543424a6ac6c3e|file:///home/sss/.config/alacritty/alacritty.yml|34|14|v|yaml
+	Hack Regular Nerd Font Complete
+dab9b8e21e3c9ed81c60485f4488a903|file:///home/sss/.config/alacritty/alacritty.yml|37|14|v|yaml
+	Hack Bold Nerd Font Complete"
+	
+963f1087cfa18ccdae57840c9afe0453|file:///home/sss/.config/alacritty/alacritty.yml|37|14|v|yaml
+	Hack Bold Nerd Font Complete
+492029668be0132ecc719a6c583e91b0|file:///home/sss/.config/alacritty/alacritty.yml|40|14|v|yaml
+	Hack Italic Nerd Font Complete
+936f8c18c873436378934879ad2e610c|file:///home/sss/.config/alacritty/alacritty.yml|43|14|v|yaml
+	Hack Bold Italic Nerd Font Complete
+4f2747b26d6880f944ba288856ef2028|file:///home/sss/.config/nvim/plug-config/start-screen.vim|44|18|v|vim
+	pics
+be8df1f28c0abc85a0ed0c6860e5d832|file:///home/sss/.config/nvim/plug-config/start-screen.vim|42|18|v|vim
+	Blog
+53cae0c7df819f6e6a8104beae0f53a1|file:///home/sss/.config/nvim/plug-config/start-screen.vim|41|26|v|vim
+	zshrc
