@@ -1,0 +1,68 @@
+e114d67f6c17a814152bd397a44f69d5|file:///home/sss/.config/nvim/themes/airline.vim|14|24|v|vim
+	onedark
+b1e72b24217ae7c9c7efca0108a60cf9|file:///home/sss/.config/nvim/init.vim|7|1|v|vim
+	soure
+d7370952a15efd5e69da222c5900a9f1|file:///home/sss/.config/nvim/plug-config/start-screen.vim|5|1|V|vim
+	        \ '/_/|_/|___/_/_/_/_/ /_/  /_/\_,_/\__/_//_/ /____/ ',
+c3b84e612c1bee00d76acf4be025cc9b|file:///home/sss/.config/nvim/plug-config/start-screen.vim|6|9|v|vim
+	\ '/_/|_/|___/_/_/_/_/ /_/  /_/\_,_/\__/_
+df1b43b610470aa37c161c66620c4202|file:///home/sss/.config/nvim/plug-config/start-screen.vim|6|9|V|vim
+	        //_/ /____/ ',
+572ba560c5064614f35f364e09d52322|file:///home/sss/.config/nvim/plug-config/start-screen.vim|5|1|V|vim
+	        \ '',
+f86e2b376c573386b3fec7a471c92ac9|file:///home/sss/.config/nvim/plug-config/start-screen.vim|10|9|V|vim
+	        \ '
+2559697a541de86abc846cbe9565c0e8|file:///home/sss/.config/nvim/plug-config/start-screen.vim|2|9|V|vim
+	        \ '',
+	        \ ' .d8888b.  888     888 888b    888',
+d62dbfefd344bc384d3212a0b21c0deb|file:///home/sss/.config/nvim/plug-config/start-screen.vim|37|28|V|vim
+	function! StartifyEntryFormat()
+	        return 'WebDevIconsGetFileTypeSymbol(absolute_path) ." ". entry_path'
+	    endfunction
+a41b561c9d17aea002e5aea605a46aac|file:///home/sss/.config/nvim/init.vim|11|1|V|vim
+	source $HOME/.config/nvim/plug-config/start-screen.vim
+307f2c5e9de9835dee647ed93b96ab9e|file:///home/sss/.config/nvim/init.vim|12|39|v|vim
+	start-screen
+7602b8319a314ada5005416962a068d9|file:///home/sss/.config/nvim/vim-plug/plugins.vim|49|5|V|vim
+	    Plug 'turbio/bracey.vim'
+daf25d10f30af61b0ed5abd7ad4d235f|file:///home/sss/Documents/test/test.html|5|40|v|html
+	device-width
+0945359809dad1fbf3dea1c95a0da951|file:///home/sss/Documents/test/test.html|6|10|v|html
+	Document
+649d65533ef56d78066ae2e714baebb8|file:///home/sss/Documents/test/test.html|9|3|v|html
+	Documendet
+1fe84329b6800d82e3133b73a8569ba1|file:///home/sss/.config/nvim/vim-plug/plugins.vim|50|5|V|vim
+	    kj
+d2c1e8547f493a781a6fc8d2827473ef|file:///home/sss/.config/nvim/init.vim|13|1|V|vim
+	source $HOME/.config/nvim/plug-config/floaterm.vim
+70fa2c58bf84c08d42e6743bfb271f0f|file:///home/sss/.config/nvim/init.vim|14|39|v|vim
+	floaterm
+2a412dba958cb02c35e7958e4405f0f9|file:///home/sss/.config/nvim/init.vim|14|1|V|vim
+	source $HOME/.config/nvim/plug-config/.vim
+58efd91d17809bd03d7a5c5f60bb1255|file:///home/sss/.config/nvim/plug-config/lazygit.vim|5|1|V|vim
+	:LazyGitConfig<CR>
+6f298b9e321d6e91d8535c31ef0a2e64|file:///home/sss/.config/nvim/keys/mappings.vim|50|9|V|vim
+	" Lazygit
+	" setup mapping to call :LazyGit
+	nnoremap <leader>g :LazyGit<CR>
+2a304a1348456ccd2234cd71a81bd338|file:///home/sss/Documents/js/index.html|7|5|v|html
+	link
+a1b01e734b573fca08eb1a65e6df9a38|file:///home/sss/Documents/js/index.html|7|33|v|html
+	style
+841a2d689ad86bd1611447453c22c6fc|file:///home/sss/Documents/js/index.html|10|5|v|html
+	body
+64bbb86ce88ae3f14126c3756a964bb2|file:///home/sss/Documents/js/index.html|8|3|V|html
+	  <link rel="stylesheet" href="./style.css">
+84e92a3b9e823efe1ce989e147c0b943|file:///home/sss/Documents/js/index.html|12|2|V|html
+	  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam dolorum blanditiis, alias magni odit, debitis
+	  sed omnis saepe adipisci aspernatur explicabo atque eaque eius.
+	  
+3365b7790a161bd6ba9c0a529697e550|file:///home/sss/Documents/js/index.html|12|1|V|html
+	</body>
+	
+a56c3bad3fe941197d8b8bb910577a3a|file:///home/sss/Documents/js/index.html|12|1|V|html
+	  Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa aliquam dolorum blanditiis, alias magni odit, debitis
+	  sed omnis saepe adipisci aspernatur explicabo atque eaque eius.
+cdc144297f034cbf45bfb7022aeee3be|file:///home/sss/Documents/js/index.html|11|1|V|html
+	<body>
+	</body>
